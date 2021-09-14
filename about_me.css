@@ -1,0 +1,14 @@
+body {background-image: url("images/mountains.jpg"); 
+    background-color: #1C6B85;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1    {color: white;} 
+p     {color: white;background-color:#1C6B85;display:inline-block;} 
+p2    {color: white;background-color:#1C6B85;display:inline-block;width:600px;}
+
+div {
+    display: flex;
+    justify-content: space-between;
+  }
